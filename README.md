@@ -2,7 +2,7 @@ Mirrors [ZipArchive](https://github.com/ZipArchive/ZipArchive) using [Rome](http
 
 ### To install:
 
-- Add `github "Automatic/ZipArchive"` to your `Cartfile`.
+- Add `github "erichoracek/SSZipArchive"` to your `Cartfile`.
 
 ### To update to a new version:
 
